@@ -7,6 +7,6 @@
 /dataSources/
 /dataSources.local.xml
 # IDE
-.ide
-README.md
-.ftp-deploy-sync-state.json
+/.ide/*
+/README.md
+/.ftp-deploy-sync-state.json
