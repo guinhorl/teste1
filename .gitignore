@@ -12,3 +12,5 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
+/.ftp-deploy-sync-state.json
+/README.md
